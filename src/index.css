@@ -1,0 +1,14 @@
+
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+ 
+  row-gap: 5px;;
+  justify-items:center;
+  align-items:center;
+}
+
+.tamañofooter{
+  font-size: 10px;
+  font-weight: bold;
+}
